@@ -2,6 +2,9 @@
 
 Create Sora 2 AI videos about everyday situations that suddenly go stupid and chaotic, then auto-post everywhere with Blotato.
 
+**This is just a public description. To access the private workflow repo, contact me.**  
+[→ Private repository link](https://github.com/IShauryaI/Sora-2-Automation-doorbell-cams-workflow)
+
 ## How It Works  
 - Generates a structured viral prompt with Claude, then submits a Sora‑2 job via Kie and waits for completion  
 - Uploads the result to Blotato and posts sequentially to YouTube, Instagram, and TikTok  
